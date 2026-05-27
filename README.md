@@ -11,7 +11,7 @@ Curso práctico para desarrollar aplicaciones web con Oracle APEX, desde configu
 
 ## Lista de laboratorios
 
-Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
+Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar. 
 
 ### Capítulo 1
 
