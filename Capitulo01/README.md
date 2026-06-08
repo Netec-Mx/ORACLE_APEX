@@ -1,4 +1,4 @@
-# Crear primer workspace y aplicación básica.
+# Práctica 1: Crear primer workspace y aplicación básica.
 
 ## 1. Metadatos
 
