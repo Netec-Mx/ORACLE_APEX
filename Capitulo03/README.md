@@ -1,4 +1,4 @@
-# Configurar workspace, usuarios y políticas
+# Práctica 3: Configurar workspace, usuarios y políticas
 
 ## 1. Metadatos
 
