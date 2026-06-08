@@ -1,4 +1,4 @@
-# Crear y aplicar componentes compartidos en varios módulos
+# Práctica 8: Crear y aplicar componentes compartidos en varios módulos
 
 ## Metadatos del Laboratorio
 
