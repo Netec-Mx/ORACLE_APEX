@@ -1,4 +1,4 @@
-# Implementar procesos y lógica de negocio con PL/SQL
+# Práctica 7: Implementar procesos y lógica de negocio con PL/SQL
 
 ## 1. Metadatos
 
