@@ -1,4 +1,4 @@
-# Diagnóstico de rendimiento básico
+# Práctica 2: Diagnóstico de rendimiento básico
 
 ## Metadatos del Laboratorio
 
