@@ -1,4 +1,4 @@
-# Despliegue, integración y checklist de producción
+# Práctica 10: Despliegue, integración y checklist de producción
 
 ## Metadatos
 
