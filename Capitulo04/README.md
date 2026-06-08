@@ -1,7 +1,4 @@
----LAB_START---
-LAB_ID: 04-00-01
----MARKDOWN---
-# Construir una aplicación de ejemplo (formularios y reportes)
+# Práctica 4: Construir una aplicación de ejemplo (formularios y reportes)
 
 ## 1. Metadatos
 
