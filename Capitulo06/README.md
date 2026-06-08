@@ -1,4 +1,4 @@
-# Añadir comportamientos dinámicos y validaciones
+# Práctica 6: Añadir comportamientos dinámicos y validaciones
 
 ## 1. Metadatos
 
